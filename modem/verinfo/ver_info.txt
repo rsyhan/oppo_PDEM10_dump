@@ -1,0 +1,32 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.HT.5.3-00459-SM8250-1", 
+        "aop": "AOP.HO.2.0-00173-SM8250_E-1", 
+        "aop_sdx55m": "AOP.HO.2.0.2-00075-SDX55AAAAANAZO-1", 
+        "apps": "LA.UM.8.12.r1-04800-sm8250.0-1", 
+        "apps_sdx55m": "TN.HF.1.1-00136-SDX55ACTMAAAZA-1", 
+        "boot": "BOOT.XF.3.2-00226-SM8250-1", 
+        "boot_sdx55m": "BOOT.SBL.4.1-00075-SDX55MAAAAANAZB-1", 
+        "btfm": "BTFM.HST.2.0.0.c3-00173-QCACHROMZ-1", 
+        "cdsp": "CDSP.HT.2.3-00482-SM8250-1", 
+        "common": "SM8250_SDX55.LA_TN.1-0_1-0.r1-00682-STD.PROD-2", 
+        "cvp": "CVP.VPU.1.0-00039-PROD-1", 
+        "glue": "GLUE.SM8250_LA_SDX55_TN.1.01-00284-NOOP_TEST-1", 
+        "modem_sdx55m": "MPSS.HI.1.0.c8-00032.2-SDX55_RMTEFS_PACK-1", 
+        "npu": "NPU.FW.2.0-00122-SM8250_NPU_PACK-1", 
+        "slpi": "SLPI.HY.3.0-00206-SM8250AZL-1", 
+        "spss": "SPSS.A1.1.3-00051-SM8250AAAAANAZS-2", 
+        "tz": "TZ.XF.5.8-00028-SM8250AAAAANAZT-1", 
+        "tz_sdx55m": "TZ.FU.5.9-00013-SDX55AAAAANAZT-1", 
+        "tzapps": "TZ.APPS.1.8-00006-SM8250AAAAANAZT-1", 
+        "video": "VIDEO.VPU.1.0-00053-PROD-1", 
+        "wigig": "WIGIG.TLN.7.6-00018-WIGIGTLNZ-1", 
+        "wlan_hst": "WLAN.HST.1.0.1.r1-00159.1-QCAHSTSWPL_SILICONZ-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SM8250_SDX55.LA_TN.1-0_1-0.r1-00682-STD.PROD-2", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2020-03-15 02:06:03"
+    }, 
+    "Version": "1.0"
+}
